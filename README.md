@@ -148,7 +148,7 @@ This repo is divided into 3 types of folders.
 
 #### Hello, World! (0.5%)
 
-- [ ] Print "Hello, World!" to the console.
+- [X] Print "Hello, World!" to the console.
 - [ ] Modify the program to take user input and print "Hello, [name]!".
 - [ ] Create a program that prints a greeting based on the time of day.
 - [ ] Print a multi-line string using raw strings.
